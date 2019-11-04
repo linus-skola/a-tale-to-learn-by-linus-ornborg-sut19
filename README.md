@@ -1,4 +1,4 @@
-# a-tale-to-learn-by-linus-ornborg-sut19
+# A tall to learn by Linus, Carl, Anton, Khaled och Jonathan
 En unik saga
 
 <<<<<<< HEAD
