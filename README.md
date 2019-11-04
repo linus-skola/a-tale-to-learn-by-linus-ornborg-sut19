@@ -9,5 +9,7 @@
 
 <p align="center">
   <h2 align="center">Contribrutors</h2>
-  <h3><a href="github.com/linus-skola">Linus-Skola</a></h3>
+  <h3 align="center">
+  <a href="github.com/linus-skola">Linus-Skola</a>
+  </h3>
 </p>
