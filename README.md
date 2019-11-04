@@ -7,15 +7,11 @@
   <br>
   <br>
 
-<div style="display:table;width:30px;height:60px;">
-  <div style="display:table-cell;height:30px;">This is positioned in the middle</div>
-</div>
-
 <p align="center">
   <h2 align="center">Contribrutors</h2>
   <center>
-  <img src="https://avatars1.githubusercontent.com/u/54643453?s=400&v=4" width="50">
-  <img src="https://avatars1.githubusercontent.com/u/56957032?s=400&v=4" width="50">
+  <img src="https://avatars1.githubusercontent.com/u/54643453?s=400&v=4" width="50"> <img src="https://avatars1.githubusercontent.com/u/56957032?s=400&v=4" width="50">
+  
   <img src="https://avatars1.githubusercontent.com/u/54643453?s=400&v=4" width="50">
   <img src="https://avatars1.githubusercontent.com/u/56957032?s=400&v=4" width="50">
   </center>
