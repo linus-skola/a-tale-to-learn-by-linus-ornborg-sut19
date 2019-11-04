@@ -1,8 +1,2 @@
-Villain
-Name: Magnus Andersson
-Age: 34
-Profession: Slaktare
-Hight: 200 cm
-Weight: 102 KG
-
+The villain lives in a dark cave just north of a remote town called Chesterfield Hill.
 
