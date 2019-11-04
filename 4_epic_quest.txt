@@ -1,1 +1,6 @@
-Test
+The hero must go through the enchanted forrest and defeat the evil theachers.
+
+Or
+
+Go to the cafeteria.
+
