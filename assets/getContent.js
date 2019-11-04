@@ -1,6 +1,10 @@
 const app = document.getElementById('one')
 
+<<<<<<< HEAD
 var url = "https://raw.githubusercontent.com/linus-skola/a-tale-to-learn-by-linus-ornborg-sut19/master/9_end.txt";
+=======
+var url = "https://raw.githubusercontent.com/linus-skola/a-tale-to-learn-by-linus-ornborg-sut19/master/1_tale_begins.txt";
+>>>>>>> linus
 var xhttp;
 xhttp=new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -17,7 +21,10 @@ function myFunction(xhttp) {
     content.textContent = xhttp.responseText;
 
     app.appendChild(content)
+<<<<<<< HEAD
     console.log(content)
+=======
+>>>>>>> linus
 
     //document.getElementById("one").innerHTML = xhttp.responseText;
   }
