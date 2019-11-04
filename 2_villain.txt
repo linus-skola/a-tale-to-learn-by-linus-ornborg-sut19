@@ -1,1 +1,8 @@
-He tried to go to the right side, but he couldn't, so he went left.
+Villain
+Name: Magnus Andersson
+Age: 34
+Profession: Slaktare
+Hight: 200 cm
+Weight: 102 KG
+
+
