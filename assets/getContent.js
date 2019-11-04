@@ -18,4 +18,4 @@ function myFunction(xhttp) {
 
     app.appendChild(content)
 
-  }
+}
