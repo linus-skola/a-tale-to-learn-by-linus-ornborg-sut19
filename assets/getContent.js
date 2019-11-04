@@ -26,5 +26,4 @@ function myFunction(xhttp) {
 =======
 >>>>>>> linus
 
-    //document.getElementById("one").innerHTML = xhttp.responseText;
   }
