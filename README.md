@@ -8,7 +8,7 @@
   <br>
 
 <p align="center">
-  <h2 align="center">Contributors</h2>
+  <h2 align="center">Collaborators</h2>
   <h3 align="center">
   <a href="https://github.com/linus-skola">Linus-Skola</a>
   <br>
