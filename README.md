@@ -10,10 +10,14 @@
 <p align="center">
   <h2 align="center">Contribrutors</h2>
   <h3 align="center">
-  <a href="https://github.com/linus-skola">Linus-Skola, </a>
-  <a href="https://github.com/SharlCvan">SharlCvan, </a>
-  <a href="https://github.com/AntonAsplund">AntonAsplund, </a>
-  <a href="https://github.com/knt73">knt73, </a>
+  <a href="https://github.com/linus-skola">Linus-Skola</a>
+  <br>
+  <a href="https://github.com/SharlCvan">SharlCvan</a>
+  <br>
+  <a href="https://github.com/AntonAsplund">AntonAsplund</a>
+  <br>
+  <a href="https://github.com/knt73">knt73</a>
+  <br>
   <a href="https://github.com/JonathanKrantz99">JonathanKrantz99</a>
   </h3>
 </p>
