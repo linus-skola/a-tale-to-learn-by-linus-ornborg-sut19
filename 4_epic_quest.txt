@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 The hero must go through the enchanted forrest and defeat the evil theachers.
 
 Or
 
 Go to the cafeteria.
-=======
-Test
->>>>>>> cae3d393f3d560181443edd904b7de5480253de9
->>>>>>> 3677283b0558f7e2ed5c5b7b3a50ffb506cd9827
-
-
-HEJHEJ
