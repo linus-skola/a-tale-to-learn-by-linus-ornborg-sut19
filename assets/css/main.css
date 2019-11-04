@@ -181,12 +181,8 @@ input, select, textarea {
 	}
 
 	p {
-<<<<<<< HEAD
-		margin: 0 0 2em 0;
-=======
         margin: 0 0 2em 31%;
         max-width: 700px;
->>>>>>> linus
 	}
 
 	h1, h2, h3, h4, h5, h6 {
