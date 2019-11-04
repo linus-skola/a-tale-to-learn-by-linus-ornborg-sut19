@@ -13,8 +13,10 @@
 
 <p align="center">
   <h2 align="center">Contribrutors</h2>
+  <center>
   <img src="https://avatars1.githubusercontent.com/u/54643453?s=400&v=4" width="50">
   <img src="https://avatars1.githubusercontent.com/u/56957032?s=400&v=4" width="50">
   <img src="https://avatars1.githubusercontent.com/u/54643453?s=400&v=4" width="50">
   <img src="https://avatars1.githubusercontent.com/u/56957032?s=400&v=4" width="50">
+  </center>
 </p>
