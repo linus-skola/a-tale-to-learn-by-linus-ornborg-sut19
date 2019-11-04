@@ -11,12 +11,36 @@ request.onload = function() {
   var data = JSON.parse(this.response)
   if (request.status >= 200 && request.status < 400){
     data.forEach(repo => {
-        var txt;
+        var url = repo.download_url;
         const content = repo.name;
+        var txt = content;
         if(content.endsWith(".txt")){
-            console.log(content);
-            console.log(repo.download_url);
-            getContent(repo.download_url);
+
+            var xhttp;
+            xhttp=new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+
+            if (this.readyState == 4 && this.status == 200) {
+
+                const app = document.getElementById('one')
+            
+                const name = document.createElement('p')
+                name.textContent = txt;
+                const content = document.createElement('p')
+                content.setAttribute('align', 'center')
+                content.textContent = xhttp.responseText;
+
+                app.appendChild(name)
+                app.appendChild(content)
+            }
+        };
+        xhttp.open("GET", url, true);
+        xhttp.send();
+
+            //const txt = content;
+            //getContent(repo.download_url, txt);
+            //console.log(content);
+            //console.log(repo.download_url);
         }
         
     })
@@ -29,25 +53,35 @@ request.onload = function() {
 
 request.send()
 
-function getContent(url){
+/* function getContent(url, txt){
     var xhttp;
     xhttp=new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-        append(xhttp);
+        //append(xhttp);
+        const app = document.getElementById('one')
+    
+        const name = document.createElement('p')
+        name.textContent = txt;
+        const content = document.createElement('p')
+        content.setAttribute('align', 'center')
+        content.textContent = xhttp.responseText;
+
+        app.appendChild(name)
+        app.appendChild(content)
         }
     };
     xhttp.open("GET", url, true);
     xhttp.send();
-}
+} */
 
-function append(xhttp) {
-    const app = document.getElementById('one')
-    
-    const content = document.createElement('p')
-    content.setAttribute('align', 'center')
-    content.textContent = xhttp.responseText;
+//function append(xhttp) {
+//    const app = document.getElementById('one')
 
-    app.appendChild(content)
+//    const content = document.createElement('p')
+  //  content.setAttribute('align', 'center')
+    //content.textContent = xhttp.responseText;
 
-}
+//    app.appendChild(content)
+
+//}
