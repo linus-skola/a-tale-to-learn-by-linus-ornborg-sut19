@@ -18,5 +18,4 @@ function myFunction(xhttp) {
 
     app.appendChild(content)
 
-    //document.getElementById("one").innerHTML = xhttp.responseText;
   }
